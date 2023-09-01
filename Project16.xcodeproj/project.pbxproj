@@ -13,6 +13,8 @@
 		70B0A0062AA1BAD200416CE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70B0A0042AA1BAD200416CE1 /* Main.storyboard */; };
 		70B0A0082AA1BAD300416CE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70B0A0072AA1BAD300416CE1 /* Assets.xcassets */; };
 		70B0A00B2AA1BAD300416CE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70B0A0092AA1BAD300416CE1 /* LaunchScreen.storyboard */; };
+		70B0A0132AA1BCBE00416CE1 /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B0A0122AA1BCBE00416CE1 /* Capital.swift */; };
+		70B0A0152AA1F2E200416CE1 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B0A0142AA1F2E200416CE1 /* WebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		70B0A0072AA1BAD300416CE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		70B0A00A2AA1BAD300416CE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		70B0A00C2AA1BAD300416CE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		70B0A0122AA1BCBE00416CE1 /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
+		70B0A0142AA1F2E200416CE1 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				70B09FFE2AA1BAD200416CE1 /* AppDelegate.swift */,
 				70B0A0002AA1BAD200416CE1 /* SceneDelegate.swift */,
 				70B0A0022AA1BAD200416CE1 /* ViewController.swift */,
+				70B0A0142AA1F2E200416CE1 /* WebViewController.swift */,
+				70B0A0122AA1BCBE00416CE1 /* Capital.swift */,
 				70B0A0042AA1BAD200416CE1 /* Main.storyboard */,
 				70B0A0072AA1BAD300416CE1 /* Assets.xcassets */,
 				70B0A0092AA1BAD300416CE1 /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 			files = (
 				70B0A0032AA1BAD200416CE1 /* ViewController.swift in Sources */,
 				70B09FFF2AA1BAD200416CE1 /* AppDelegate.swift in Sources */,
+				70B0A0132AA1BCBE00416CE1 /* Capital.swift in Sources */,
+				70B0A0152AA1F2E200416CE1 /* WebViewController.swift in Sources */,
 				70B0A0012AA1BAD200416CE1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
